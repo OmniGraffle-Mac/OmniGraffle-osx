@@ -1,7 +1,7 @@
 # OmniGraffle – Professional Diagramming & Visual Design Tool  
 
 <div align="center">  
-<img src="https://www.omnigroup.com/images/blog_images/omnigraffle_enterprise_icon.png" alt="OmniGraffle Logo" width="200">  
+<img src="https://www.omnigroup.com/images/blog_images/omnigraffle_enterprise_icon.png" alt="OmniGraffle Logo" width="800">  
 </div>
 
 <br>
